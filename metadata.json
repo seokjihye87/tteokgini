@@ -1,0 +1,6 @@
+{
+  "name": "떡찌니 - 100% 국산쌀 프리미엄 떡 브랜드",
+  "description": "2010년부터 시작된 100% 국산쌀 프리미엄 건강 떡 전문 브랜드 떡찌니의 공식 메인 홈페이지 및 매거진 블로그",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
